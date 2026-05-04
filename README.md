@@ -168,6 +168,15 @@ If you use AutoSpineAI in your research, please cite the project and any underly
 **📚 Related Work**
 
 ```
+@article{abdulmahmod2026medical,
+  title   = {Medical Spine Sagittal MRI Dataset for Segmentation and Foraminal Stenosis Detection},
+  author  = {Abdulmahmod, Osamah F. and Al-Antari, Mugahed A. and Kwon, Hyunwook and Habib, Afnan and Raza, Mukhlis and Kaplan, Metin and Ertu{\u{g}}rul, Bilal and Ak{\c{c}}in, {\.I}smail and B{\"u}t{\"u}n, Ertan and Gu, Yeong Hyeon},
+  journal = {Scientific Data},
+  year    = {2026},
+  doi     = {10.1038/s41597-026-07138-x},
+  url     = {https://doi.org/10.1038/s41597-026-07138-x},
+  publisher = {Nature Publishing Group}
+}
 @article{al2025evaluating,
   title={Evaluating AI-powered predictive solutions for MRI in lumbar spinal stenosis: a systematic review},
   author={Al-Antari, Mugahed A and Salem, Saied and Raza, Mukhlis and Elbadawy, Ahmed S and B{\"u}t{\"u}n, Ertan and Aydin, Ahmet Arif and Aydo{\u{g}}an, Murat and Ertu{\u{g}}rul, Bilal and Talo, Muhammed and Gu, Yeong Hyeon},
