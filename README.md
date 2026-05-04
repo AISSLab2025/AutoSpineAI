@@ -1,8 +1,6 @@
->[![Paper](https://img.shields.io/badge/paper-OpenReview-6f42c1.svg)](https://openreview.net/forum?id=RKOKlm4e4U#discussion)📄 **[Read the Paper here](https://openreview.net/forum?id=RKOKlm4e4U#discussion)**
+# 🧠 AutoSpineAI
 
 [![Paper](https://img.shields.io/badge/Paper-IEEE-blue)](https://ieeexplore.ieee.org/abstract/document/11269503)
-
-📄 **[Read the paper (IEEE)](https://ieeexplore.ieee.org/abstract/document/11269503)**
 
 <!-- Top hero gallery: 1 large image, 1 large image, then a 2-column row -->
 
