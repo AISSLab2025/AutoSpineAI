@@ -157,7 +157,6 @@ To reproduce the baseline experiments, set up the environment, download the cura
 ---
 
 **📚 Citations**
-
 If you use AutoSpineAI in your research, please cite the project and any underlying methods you rely on. Example BibTeX entries for foundational components are listed below.
 
 ```
@@ -167,9 +166,9 @@ If you use AutoSpineAI in your research, please cite the project and any underly
   booktitle={IEEE-EMBS International Conference on Biomedical and Health Informatics 2025}
 }
 ```
-**📚 Related Work**
 
-```
+## 📚 Related Work
+```bibtex
 @article{abdulmahmod2026medical,
   title   = {Medical Spine Sagittal MRI Dataset for Segmentation and Foraminal Stenosis Detection},
   author  = {Abdulmahmod, Osamah F. and Al-Antari, Mugahed A. and Kwon, Hyunwook and Habib, Afnan and Raza, Mukhlis and Kaplan, Metin and Ertu{\u{g}}rul, Bilal and Ak{\c{c}}in, {\.I}smail and B{\"u}t{\"u}n, Ertan and Gu, Yeong Hyeon},
@@ -179,6 +178,7 @@ If you use AutoSpineAI in your research, please cite the project and any underly
   url     = {https://doi.org/10.1038/s41597-026-07138-x},
   publisher = {Nature Publishing Group}
 }
+
 @article{al2025evaluating,
   title={Evaluating AI-powered predictive solutions for MRI in lumbar spinal stenosis: a systematic review},
   author={Al-Antari, Mugahed A and Salem, Saied and Raza, Mukhlis and Elbadawy, Ahmed S and B{\"u}t{\"u}n, Ertan and Aydin, Ahmet Arif and Aydo{\u{g}}an, Murat and Ertu{\u{g}}rul, Bilal and Talo, Muhammed and Gu, Yeong Hyeon},
@@ -187,26 +187,33 @@ If you use AutoSpineAI in your research, please cite the project and any underly
   number={8},
   pages={221},
   year={2025},
-  publisher={Springer}
+  publisher={Springer},
+  doi={10.1007/s10462-025-11185-y},
+  url={https://doi.org/10.1007/s10462-025-11185-y}
 }
 
 @article{razamultimodal,
   title={Multimodal Knowledge-Infused VLM for Respiratory Disease Prediction and Clinical Report Generation},
   author={Raza, Mukhlis and Salem, Saied and Kwon, Hyunwook and Hussain, Jamil and Gu, Yeong Hyeon and Al-Antari, Mugahed A},
-  journal={IEEE journal of biomedical and health informatics}
+  journal={IEEE journal of biomedical and health informatics},
+  year={2025},
+  pages={1-14},
+  doi={10.1109/JBHI.2025.3631264},
+  url={https://ieeexplore.ieee.org/document/11297148}
 }
 
 @inproceedings{raza2025medxpert,
   title={MedXpert-CAD: A Multimodal Multi-agentic System for Clinical Imaging Analysis via Model Context Protocol LLM-Driven Agentic Workflows},
   author={Raza, Mukhlis and Salem, Saied and Habib, Afnan and Abdulmahmod, Osamah and Kwon, Hyunwook and Hussain, Jamil and Al-antari, Mugahed A},
-  booktitle={International Workshop on Agentic AI for Medicine},
+  booktitle={MICCAI2025: Agentic AI in Medicine Workshop},
   pages={55--64},
   year={2025},
-  organization={Springer}
+  organization={Springer},
+  publisher={Springer Nature Switzerland},
+  doi={10.1007/978-3-032-06004-4_6},
+  url={https://doi.org/10.1007/978-3-032-06004-4_6}
 }
-
 ```
-
 
 **Acknowledgements & Contact**
 
