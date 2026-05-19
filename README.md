@@ -159,11 +159,13 @@ To reproduce the baseline experiments, set up the environment, download the cura
 **📚 Citations**
 If you use AutoSpineAI in your research, please cite the project and any underlying methods you rely on. Example BibTeX entries for foundational components are listed below.
 
-```
+```bibtex
 @inproceedings{salem2025autospineai,
   title={AutoSpineAI: Lightweight Multimodal CAD Framework for Lumbar Spine MRI Assessments},
   author={Salem, Saied and Habib, Afnan and Raza, Mukhlis and Al-Huda, Zaid and Al-maqtari, Omar and Ertu{\u{g}}rul, Bilal and Y{\i}ld{\i}r{\i}m, {\"O}zal and Gu, Yeong Hyeon and Al-antari, Mugahed A},
-  booktitle={IEEE-EMBS International Conference on Biomedical and Health Informatics 2025}
+  booktitle={IEEE-EMBS International Conference on Biomedical and Health Informatics 2025},
+  year={2025},
+  url={https://doi.org/10.1109/BHI67747.2025.11269503}
 }
 ```
 
